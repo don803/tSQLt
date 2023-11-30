@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-architect
 title: tSQLt - Database Unit Testing for SQL Server
 description: tSQLt is the open source framework for unit testing on SQL Server
 defaults:
