@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tSQLt.org" # the base hostname & protocol for your site, e.g. http://tSQLt.org
 twitter_username: tsqltorg
 github_username:  tsqlt-org
+author: tsqlt.org
 # github_username:  tsqlt-org/tsqlt
 # youtube_username: @sqlity
 

@@ -4,3 +4,5 @@
 
 layout: home
 ---
+WELCOME TO TSQLT, THE OPEN SOURCE DATABASE UNIT TESTING FRAMEWORK FOR SQL SERVER
+* [User Guide](user-guide/)
